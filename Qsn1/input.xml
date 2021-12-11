@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="input.xsl"?>
+<countries>
+  <country name="Afghanistan"                 population="22664136"    area="647500">
+    <language percentage="11">Turkic</language>
+    <language percentage="35">Pashtu</language>
+    <language percentage="50">Afghan Persian</language>
+  </country>
+  <country name="Albania"                     population="3249136"     area="28750"/>
+  <country name="Algeria"                     population="29183032"    area="2381740">
+    <city>
+      <name>Algiers</name>
+      <population>1507241</population>
+    </city>
+  </country>
+  <country name="American Samoa"              population="59566"       area="199"/>
+  <country name="Andorra"                     population="72766"       area="450"/>
+  <country name="Angola"                      population="10342899"    area="1246700"/>
+  <country name="Anguilla"                    population="10424"       area="91">
+    <language percentage="100">English</language>
+  </country>
+  <country name="Antigua  and  Barbuda"       population="65647"       area="440">
+    <language percentage="100">English</language>
+  </country>
+  <country name="Argentina"                   population="34672996"    area="2766890">
+    <city>
+      <name>La Matanza</name>
+      <population>1111811</population>
+    </city>
+    <city>
+      <name>Cordoba</name>
+      <population>1208713</population>
+    </city>
+    <city>
+      <name>Rosario</name>
+      <population>1118984</population>
+    </city>
+    <city>
+      <name>Buenos Aires</name>
+      <population>2988006</population>
+    </city>
+  </country>
+  <country name="Armenia"                     population="3463574"     area="29800">
+    <city>
+      <name>Yerevan</name>
+      <population>1200000</population>
+    </city>
+    <language percentage="2">Russian</language>
+    <language percentage="96">Armenian</language>
+  </country>
+</countries>
